@@ -1,0 +1,53 @@
+/* navbar style start */
+
+.name {
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 200px;
+}
+
+.links {
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 200px;
+}
+
+@media screen and (max-width:547px){
+
+    .name{
+        padding-left: 2px;
+    }
+
+}
+
+/* navbar style end */
+
+
+/* home section style start */
+
+.home {
+
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(2, 1, 1, 0.7),rgba(25, 25, 34, 0.7)),url('Assests/Images/HomeBG.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+
+}
+
+.home-content{
+
+    padding-top: 370px;
+    color: white;
+
+}
+
+@media screen and (max-width:547px){
+
+    .home{
+        width: 100%;
+    }
+
+}
+
+
+/* home section style end */
