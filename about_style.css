@@ -1,0 +1,15 @@
+.social a {
+    background-color: rgb(218, 210, 210);
+    padding: 12px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    background-color: rgb(240, 144, 144);
+}
+
+.about-cont {
+    padding-top: 280px;
+}
