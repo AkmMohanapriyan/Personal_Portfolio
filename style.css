@@ -82,7 +82,55 @@
         padding-top: 50px;
     }
 
-
+    .about {
+        width: 100%;
+        height: 100%;
+    }
 
 }
 /* About section style end */
+
+
+/* skill section tyle start */
+
+.skills {
+    width: 100%;
+    height: 100vh;
+}
+
+.skills .row {
+    padding-top: 160px;
+}
+
+@media screen and (max-width:547px){
+
+    .skills .row{
+        padding-top: 50px;
+    }
+
+    .skills {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+/* skills section style end */
+
+
+/* footer section style start */
+
+.footer {
+    background-color: black;
+    color: white;
+}
+
+.footer h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer a {
+    text-decoration: none;
+    color: white;
+}
+
+/* footer section style end */
