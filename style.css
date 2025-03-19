@@ -133,4 +133,11 @@
     color: white;
 }
 
+@media screen and (max-width:547px){
+
+    .footer {
+        width: 100%;
+        height: 100%;
+    }
+}
 /* footer section style end */
